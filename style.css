@@ -1,0 +1,29 @@
+#clock {
+  width: 55vw;
+  font-family: "Orbitron", sans-serif;
+  font-size: 6vw;
+  text-align: center;
+  border-radius: 12px;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonround {
+  width: 50px;
+  height: 50px;
+  border: 1px solid;
+  border-radius: 50%;
+  position: relative;
+  bottom: 55px;
+}
+.background {
+  background-color: black;
+}
