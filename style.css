@@ -27,3 +27,14 @@
 .background {
   background-color: black;
 }
+
+@media screen and (max-width: 700px) {
+  .buttonround {
+    width: 35px;
+    height: 35px;
+    bottom: 50px !important;
+  }
+  .fa-2x {
+    font-size: 1rem !important;
+  }
+}
