@@ -32,9 +32,13 @@
   .buttonround {
     width: 35px;
     height: 35px;
-    bottom: 50px !important;
+    bottom: 53px !important;
   }
   .fa-2x {
     font-size: 1.5rem !important;
+  }
+  #iconimg {
+    margin-left: -1px;
+    margin-top: 2px;
   }
 }
